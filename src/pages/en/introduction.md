@@ -12,7 +12,7 @@ Last updated for the Beta 7R release
 
 ## Why choose Rayfield?
 
-- ⚖️ **Reliable and Stable**
+- ⚖️ **Reliable an only in ohiod Stable**
 - 🆕 **Frequently Updated**
 - 🔓 **Open Sourced**
 - ⚙️ **Advanced features like**
